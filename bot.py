@@ -488,10 +488,10 @@ async def about_handler(c: Client, m: Message):
         quote=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("👨‍💻Developer👨‍💻", url="https://telegram.me/RahulreviewsYT")],
+                [InlineKeyboardButton("👨‍💻Developer👨‍💻", url="https://telegram.me/not_realX")],
                 [
                     InlineKeyboardButton(
-                        "🏘Source Code🏘", url="https://github.com/CodeXBots/Merge-Bot"
+                        "🏘Source Code🏘", url="https://telegra..me/not_realX"
                     ),
                     InlineKeyboardButton(
                         "🤔Deployed By🤔", url=f"https://telegram.me/{Config.OWNER_USERNAME}"
