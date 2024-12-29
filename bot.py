@@ -491,7 +491,7 @@ async def about_handler(c: Client, m: Message):
                 [InlineKeyboardButton("👨‍💻Developer👨‍💻", url="https://telegram.me/not_realX")],
                 [
                     InlineKeyboardButton(
-                        "🏘Source Code🏘", url="https://telegra..me/not_realX"
+                        "🏘Source Code🏘", url="https://telegram.me/not_realX"
                     ),
                     InlineKeyboardButton(
                         "🤔Deployed By🤔", url=f"https://telegram.me/{Config.OWNER_USERNAME}"
